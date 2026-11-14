@@ -78,6 +78,14 @@ After simplification:
 
 **P3 = A1A0B1B0**
 
+## See the Video Explanation -
+
+### 1. Design Process
+[![2-Bit Multiplier Design](Images/design_thumbnail.png)](https://youtube.com/shorts/jajkBz97u60?feature=share)
+
+### 2. Logisim Evolution Simulation
+[![2-Bit Multiplier Simulation](Images/simulation_thumbnail.png)](YOUR_SECOND_VIDEO_LINK)
+
 ## Boolean Expression Derivation
 
 I explored two approaches to understand and derive the output expressions:
