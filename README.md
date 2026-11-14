@@ -81,7 +81,14 @@ After simplification:
 ## See the Video Explanation -
 
 ### 1. Design Process
-[![2-Bit Multiplier Design](Design_Thumbnail.jpeg)](https://youtube.com/shorts/jajkBz97u60?feature=share)
+<p align="center">
+  <a href="https://youtube.com/shorts/jajkBz97u60?feature=share">
+    <img src="Design_Thumbnail.jpeg"
+         alt="2-Bit Multiplier Design Demonstration"
+         width="500"
+      height = "500">
+  </a>
+</p>
 
 ### 2. Logisim Evolution Simulation
 [![2-Bit Multiplier Simulation](Images/simulation_thumbnail.png)](YOUR_SECOND_VIDEO_LINK)
